@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdParams>
+<RequestUrl>
+http://int-portal.dev.yumenetworks.com/dynamic_preroll_playlist.vast2xml?domain=4713oxEhyPZE
+</RequestUrl>
+<PostJson>
+{
+	"id": "NA",
+	"user": {
+		"yob": 1000,
+		"gender": "O",
+		"id": "NA",
+		"ext": {
+			"demography": {
+				"interests": [],
+				"age": 0,
+				"income": "",
+				"keywords": [],
+				"education": ""
+			}
+		},
+		"buyeruid": "NA"
+	},
+	"device": {
+		"os": "Windows 7",
+		"js": 1,
+		"connectiontype": 1,
+		"devicetype": 2,
+		"ext": {
+			"network_name": "",
+			"has_tls": false,
+			"ad_tracking": {
+				"limit": "false",
+				"type": "",
+				"id": ""
+			},
+			"system_language": "en",
+			"preferred_languages": ["en"],
+			"local_file_read_disable": "true",
+			"windowless_disabled": false,
+			"character_encoding": "utf16",
+			"connection": {
+				"type": "",
+				"bandwidth": "",
+				"service_provider": ""
+			},
+			"plugins": ["ActiveTouch General Plugin Container", "Adobe Acrobat", "Adobe Acrobat", "Google Update", "Java Deployment Toolkit 8.0.250.18", "Java(TM) Platform SE 8 U25", "Microsoft Office 2010", "Microsoft Office 2010", "Shockwave Flash", "VLC Web Plugin", "Yahoo Application State Plugin", "iTunes Application Detector"],
+			"bits_per_pixel": 0,
+			"ifasha1": "",
+			"ifamd5": "",
+			"browser": {
+				"cookie_life": "",
+				"browser_width": 0,
+				"cookie_value": "",
+				"javascript_version": "",
+				"browser_home_page": "http%3A%2F%2Ftvgrin.com%2Fvideo%2Fmy-dad-is-the-best-but-he-lies",
+				"cookie_enabled": true,
+				"browser_height": 0,
+				"web_engine": "Gecko",
+				"browser_vendor": "Netscape",
+				"browser_version": "42"
+			},
+			"yume_user_agent": "",
+			"width": 635,
+			"product_sub": "",
+			"uuid": "",
+			"height": 356,
+			"hardware": {
+				"disk_usage": "",
+				"accelerometer": {
+					"zaxis": 0,
+					"xaxis": 0,
+					"yaxis": 0
+				},
+				"proximity_sensor": false,
+				"battery_status": "",
+				"display": {
+					"screen_height": 768,
+					"viewport": "175,212,635,356,635,356,175,212",
+					"screen_dpi": 72,
+					"touch_screen_type": "NA",
+					"screen_width": 1366
+				},
+				"current_device": "",
+				"magnetic_field": false,
+				"hardware_version": "",
+				"gps": false,
+				"cpu_usage": 0,
+				"supports_32bit_processes": false,
+				"gyroscope": false,
+				"supports_64bit_processes": false,
+				"system_volume": 0,
+				"storage_quota_in_mb": "0.0",
+				"ram_size": 0
+			},
+			"platform": "Windows 7",
+			"child_frame": "http%3A%2F%2Ftvgrin.com%2Fvideo%2Fmy-dad-is-the-best-but-he-lies",
+			"pixel_aspect_ratio": "1",
+			"embed_auto_detect": true,
+			"hypertext_protocols": ["http", "https", "ftp", "rtmp"],
+			"installed_browsers": [],
+			"network_status": true,
+			"embedded_in": "http%3A%2F%2Ftvgrin.com%2Fvideo%2Fmy-dad-is-the-best-but-he-lies"
+		},
+		"dnt": 1,
+		"flashver": "WIN 15,0,0,152",
+		"geo": {
+			"ext": {
+				"state": "",
+				"local_date": "11/06/2015",
+				"local_time": "15:40:28 +0530"
+			},
+			"lon": 0,
+			"city": "",
+			"type": 3,
+			"lat": 0,
+			"country": "USA",
+			"zip": ""
+		},
+		"ua": "Firefox",
+		"ifa": "",
+		"ip": "127.0.0.1",
+		"model": "",
+		"make": "",
+		"osv": ""
+	},
+	"imp": [{
+		"id": "1",
+		"instl": 1,
+		"video": {
+			"maxduration": 0,
+			"protocols": [1, 2, 4, 5],
+			"mimes": ["video/x-flv", "video/mp4", "application/x-shockwave-flash"],
+			"delivery": [1, 2],
+			"companionad": [],
+			"api": [1, 2],
+			"h": 356,
+			"startdelay": 0,
+			"playbackmethod": [1, 3],
+			"linearity": 1,
+			"companiontype": [1, 2, 3],
+			"minduration": 0,
+			"w": 635
+		}
+	}],
+	"ext": {
+		"player": {
+			"window_url": "http%3A%2F%2Ftvgrin.com%2Fvideo%2Fmy-dad-is-the-best-but-he-lies",
+			"window_referrer_url": "",
+			"window_width": 1366,
+			"streaming_video": true,
+			"window_height": 634,
+			"has_video_encoder": false,
+			"version": "",
+			"is_debug": false,
+			"ypt": "none",
+			"ytp": "0,0,1366,634,175,212,1366,1986",
+			"domain_url": "",
+			"mouse_inside_frame": "0,0",
+			"max_level_idc": "",
+			"color": "",
+			"ovp_type_id": "",
+			"ovp_type_name": "",
+			"width": 635,
+			"height": 356,
+			"volume": 100,
+			"max_width": 635,
+			"ovp_type_description": "",
+			"flash": {
+				"flash_major_version": "15",
+				"flash_minor_revision": "152",
+				"flash_minor_version": "0",
+				"flash_version": "WIN 15,0,0,152",
+				"flash_major_revision": "0"
+			},
+			"max_height": 356,
+			"type": "AS3",
+			"window_active": true,
+			"streaming_audio": true,
+			"window_depth": 0
+		},
+		"sdk": {
+			"is_embedded_in_acrobat": false,
+			"client_data": {
+				"local": {
+					"__csh": "",
+					"__csadt_": "",
+					"__csv": "",
+					"__csadc_": "",
+					"__cs_optout": ""
+				}
+			},
+			"playlist_version": "",
+			"ad_guids": [],
+			"mediation_sdks": [],
+			"survey": {
+				"type": "swf",
+				"enabled": "true"
+			},
+			"version": "3.0.12.20",
+			"sdk_url": "http%3A%2F%2Fcdn-01.yumenetworks.com%2Fym%2F72K6cH27X672%2F3560%2F",
+			"protocol_version": "",
+			"pre_fetch": false,
+			"exclude_ads": [],
+			"exclude_placements": [],
+			"config_file_version": 0
+		}
+	},
+	"site": {
+		"id": "NA",
+		"ref": "",
+		"domain": "4713oxEhyPZE",
+		"name": "http%3A%2F%2Ftvgrin.com%2Fvideo%2Fmy-dad-is-the-best-but-he-lies",
+		"ext": {
+			"publisher_page": "",
+			"publisher_channel": ""
+		},
+		"content": {
+			"id": "NA",
+			"ext": {
+				"categories": [],
+				"ad_break": 0,
+				"duration": 0,
+				"tags": [],
+				"guid": ""
+			},
+			"title": ""
+		}
+	}
+}
+</PostJson>
+</AdParams>
